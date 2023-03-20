@@ -5,7 +5,7 @@
   "main": "server.js",
   "repository": {
     "type": "git",
-    "url": "git@github.com:VikashChoudahry/sonarqube-setup.git"
+    "url": "git@github.com:FahadBiM/soanrcube-aws-codebuild.git"
   },
   "scripts": {
     "test": "mocha --timeout 30000 ./test/**/*.js --exit",
@@ -16,7 +16,7 @@
     "lint": "./node_modules/.bin/eslint .",
     "eslint-output": "eslint-output"
   },
-  "author": "Vikash",
+  "author": "FahadBiM",
   "license": "MIT",
   "dependencies": {
     "express": "^4.16.3",
